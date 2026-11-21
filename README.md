@@ -27,7 +27,7 @@ Most travel apps assume English, a fast connection and an account. They focus on
 | **Nothing to type** | Open it and nearby places are listed, nearest first. |
 | **Works offline** | Place data is inside the app. Download photos and the AI model once, and you need no internet after that. |
 | **Seven languages** | English, हिन्दी, தமிழ், తెలుగు, ಕನ್ನಡ, മലയാളം and বাংলা. Names, addresses and descriptions all switch. |
-| **All of India** | 58,000+ places across 36 states and union territories. |
+| **All of India** | 60K+ places across 36 states and union territories. |
 | **Listen to a place** | Descriptions read aloud in your language. |
 | **AI trip planner** | Day-by-day plans written by AI that runs on your phone. Save them, export as PDF, share on WhatsApp. |
 | **Your distance** | Look within 0–50, 50–100 or 100–150 km. |
