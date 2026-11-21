@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rahi_feature_1024x500.png" alt="rahi – places worth visiting, near you" width="100%">
+  <img src="rahi_feature_1024x500_plain.png" alt="rahi – places worth visiting, near you" width="100%">
 </p>
 
 # rahi
