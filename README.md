@@ -39,11 +39,11 @@ Most travel apps assume English, a fast connection and an account. They focus on
 
 | Theme | Places |
 |---|---:|
-| Popular places | 7,856 |
-| Religious places (temples, mosques, churches, gurudwaras) | 39,065 |
-| Parks & lakes | 10,928 |
-| Hills & beaches | 383 |
-| **Total** | **58,232** |
+| Popular places | 7K+ |
+| Religious places (temples, mosques, churches, gurudwaras) | 39K+ |
+| Parks & lakes | 10K+ |
+| Hills & beaches | 300+ |
+| **Total** | **60K+** |
 
 Every location has been checked and corrected where needed. Descriptions are still being added; places without one say "Description coming soon".
 
@@ -68,6 +68,5 @@ Questions, corrections or a place we missed? Use the contact details in the [pri
 ---
 
 <p align="center">
-  Made in Bengaluru by <b>Mirab</b><br>
   <a href="https://play.google.com/store/apps/details?id=in.mirab.rahi">Download rahi on Google Play</a>
 </p>
